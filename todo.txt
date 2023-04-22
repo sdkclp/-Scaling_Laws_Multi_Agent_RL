@@ -1,0 +1,7 @@
+1. Ecrire CCM to Tensorboard?
+2. Plot CCM next to reward for seeds
+    Commencer par 1 seul seed
+    Rollout 3 test traj - chacune mettant un adversaire en RandomPolicy
+    Ramasser les trajs
+    Compute CCM des deux autres adversaires p/r a l'adversaire random
+    Plot CCM next to reward!
